@@ -13,35 +13,4 @@ public enum NumbersOption {
     case numberInRange
     case multipleNumbers
     case dateNumbers
-
-    // TODO: move to app
-    public var labelTitle: String {
-        switch self {
-        case .userNumber:
-            return "Enter here:"
-        case .randomNumber:
-            return "Random number:"
-        case .numberInRange:
-            return "Input a range of up to 100 numbers:"
-        case .multipleNumbers:
-            return "Enter any numbers separated by comma:"
-        case .dateNumbers:
-            return "Pick date:"
-        }
-    }
-
-    public var alertMessage: String {
-        switch self {
-        case .userNumber:
-            return "Enter a valid number"
-        case .randomNumber:
-            return "Unknown error"
-        case .numberInRange:
-            return "Input numbers in both text field to display facts for a range of numbers"
-        case .multipleNumbers:
-            return "Enter any amount of numbers separated by comma"
-        case .dateNumbers:
-            return "Enter a valid date"
-        }
-    }
 }
