@@ -1,6 +1,6 @@
 //
 //  NumbersOption.swift
-//  Numberology
+//  NumberologyCore
 //
 //  Created by Beavean on 05.04.2023.
 //

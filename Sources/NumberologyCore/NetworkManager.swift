@@ -1,6 +1,6 @@
 //
 //  NetworkManager.swift
-//  Numberology
+//  NumberologyCore
 //
 //  Created by Beavean on 07.04.2023.
 //

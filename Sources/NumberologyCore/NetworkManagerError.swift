@@ -1,6 +1,6 @@
 //
 //  NetworkManagerError.swift
-//  Numberology
+//  NumberologyCore
 //
 //  Created by Beavean on 09.04.2023.
 //
