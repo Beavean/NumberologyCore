@@ -12,6 +12,10 @@ public final class NetworkManager {
 
     private let dateDictionaryKey = "Picked Date Fact:"
 
+    // MARK: - Initialization
+
+    public init() {}
+
     // MARK: - Fetch methods
 
     public func fetchFactsFor(numbers: [Int], completion: @escaping (Result<[NumberFact], Error>) -> Void) {

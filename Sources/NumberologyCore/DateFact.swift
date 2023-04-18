@@ -1,6 +1,6 @@
 //
 //  DateFact.swift
-//  Numberology
+//  NumberologyCore
 //
 //  Created by Beavean on 14.04.2023.
 //
